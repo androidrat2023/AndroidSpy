@@ -1,6 +1,7 @@
 # AndroidSpy
 AndroidSpyRat,herramienta para controlar sistema Android
 DESCARGARDE DE:https://nibiruanuna.wixsite.com/android-rat-spy
+
 ![230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335](https://github.com/androidrat2023/AndroidSpy/assets/133962787/0dd4006f-41d9-4d01-b0c5-6d3430e66f03)
 
 
