@@ -1,6 +1,8 @@
 # AndroidSpy
 AndroidSpyRat,herramienta para controlar sistema Android
 DESCARGARDE DE:https://nibiruanuna.wixsite.com/android-rat-spy
+![230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335](https://github.com/androidrat2023/AndroidSpy/assets/133962787/0dd4006f-41d9-4d01-b0c5-6d3430e66f03)
+
 
 230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335
 👑GENERALES: ⭐️Nueva interfaz mejor / Más fácil / más grande ⭐️Editar soporte de información de conexiones Múltiples clientes a la vez ⭐️Mejora importante y corrección de errores ⭐️Conexión más estable y más larga ⭐️Clicker más rápido/suave automático ⭐️Builder ahora muestra un error en caso de que se encuentre ⭐️Apk es fud otra vez 👑Pantalla en vivo: ⭐️Control de pantalla x10 más rápido ⭐️Nuevo modo de bloque: ⭐️Permitir deshabilitar el toque del usuario y bloquear la vista con pantalla negra ⭐️Para ocultar información confidencial durante el control remoto ⭐️Monitor de pantalla: Mostrar pantalla de bloqueo sin captura de pantalla 👑Lector de pantalla: Control de pantalla de soporte ⭐️Actualizar camara ahora puedes: ⭐️Establecer la resolución de la cámara ⭐️Establecer la calidad de la cámara 👑Actualizar microfono: ⭐️Iniciar/detener grabacion + grabacion guardada en el telefono
@@ -23,6 +25,8 @@ Control de pantalla más rápido Control desde el navegador web Android Clipper 
 
 Acerca de
 androidrat
+![230733598-9f8f2107-a1fd-47bd-944b-fbc079c23335](https://github.com/androidrat2023/AndroidSpy/assets/133962787/b7f96982-4261-4714-a4e9-17fd96c98923)
+
 
 Temas
 Recursos
